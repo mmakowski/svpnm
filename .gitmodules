@@ -1,0 +1,12 @@
+[submodule "src/vpmreplication/utils"]
+	path = src/vpmreplication/utils
+	url = https://github.com/mmakowski/vpmreplication-utils.git
+[submodule "src/vpmreplication/model"]
+	path = src/vpmreplication/model
+	url = https://github.com/mmakowski/vpmreplication-model.git
+[submodule "src/vpmreplication/collector"]
+	path = src/vpmreplication/collector
+	url = https://github.com/mmakowski/vpmreplication-collector.git
+[submodule "src/vpmreplication/splitting"]
+	path = src/vpmreplication/splitting
+	url = https://github.com/mmakowski/vpmreplication-splitting.git

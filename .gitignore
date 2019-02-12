@@ -1,0 +1,9 @@
+data/
+log/
+results/
+!results/report/
+!results/report/*.pdf
+.ipynb_checkpoints/
+.m2/
+__pycache__/
+*.pyc
